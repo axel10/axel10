@@ -1,5 +1,5 @@
-body{
-
+*{
+    font-family:sans-serif;
 }
 .head{
     text-align: center;
@@ -10,10 +10,9 @@ h1{
     font-size: 50px;
 }
 h3{
-
 }
 .img{
     position: absolute;
-    right:60px;
+    right:10%;
     bottom:0
 }
