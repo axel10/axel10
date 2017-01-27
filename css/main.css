@@ -1,7 +1,5 @@
 body{
-    background: url("http://i1.piimg.com/4851/60ea05937acff72d.jpg") no-repeat;
-    background-size: 34%;
-    background-position: 800px 30px;
+
 }
 .head{
     text-align: center;
@@ -13,4 +11,9 @@ h1{
 }
 h3{
 
+}
+.img{
+    position: absolute;
+    right:60px;
+    bottom:0
 }
