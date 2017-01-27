@@ -21,7 +21,7 @@ h3{
     top: 10%;
     width: 450px;
     height: 525px;
-    background: url(http://p1.bpimg.com/4851/d2cabfc0518bddb3.jpg) no-repeat center;
+    background: url("http://p1.bpimg.com/4851/d2cabfc0518bddb3.jpg") no-repeat center;
     background-size: 100%;
     z-index: -1;
     opacity: .4
